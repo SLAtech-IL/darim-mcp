@@ -3,8 +3,9 @@
   "name": "ai.darim/darim",
   "title": "Дарим",
   "description": "Russian group greeting cards: create, invite signers, track; split a gift, holiday dates.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://www.darim.ai/dlya-assistentov/",
+  "repository": { "url": "https://github.com/SLAtech-IL/darim-mcp", "source": "github" },
   "icons": [
     { "src": "https://www.darim.ai/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
   ],
